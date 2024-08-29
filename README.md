@@ -9,6 +9,6 @@ scoreList分數清單 提供測驗計分
 UIProgressView進度條gif動畫
 
 
-![image](https://github.com/Lou1202/CrossGateCareer/blob/main/加油1.png)
-![image](https://github.com/Lou1202/CrossGateCareer/blob/main/加油2.png)
-![image](https://github.com/Lou1202/CrossGateCareer/blob/main/加油3.png)
+![image](https://github.com/Lou1202/CrossGateCareer/blob/main/魔力職業1.png)
+![image](https://github.com/Lou1202/CrossGateCareer/blob/main/魔力職業2.png)
+![image](https://github.com/Lou1202/CrossGateCareer/blob/main/魔力職業3.png)
